@@ -18,6 +18,9 @@ public class MyTest1 {
         System.out.println("jjjjj");
         System.out.println("OK 哈哈哈");
 
+        System.out.println("add one line");
+
+        System.out.println("test future ");
     }
 
 }
