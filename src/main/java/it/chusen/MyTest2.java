@@ -1,0 +1,12 @@
+package it.chusen;
+
+/**
+ * @author chusen
+ * @date 2020/11/10 11:15 下午
+ */
+public class MyTest2 {
+
+    public static void main(String[] args) {
+        System.out.println("i love coder and money");
+    }
+}
