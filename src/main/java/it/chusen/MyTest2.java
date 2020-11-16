@@ -1,7 +1,7 @@
 package it.chusen;
 
 /**
- * @author chusen
+ * @author sanmu
  * @date 2020/11/10 11:15 下午
  */
 public class MyTest2 {
