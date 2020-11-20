@@ -14,7 +14,7 @@ public class MyTest1 {
         System.out.println("hello world master.");
         System.out.println("xiixi");
         for (int i = 0; i < 10; i++) {
-            System.out.println("ijjixx");
+            System.out.println("fjijixx");
         }
         System.out.println("add one line");
         System.out.println("jjjjj");
@@ -25,7 +25,7 @@ public class MyTest1 {
         System.out.println("test future ");
         System.out.println("update");
 
-        System.out.println("哈哈哈哈哈 你好fejigeji");
+        System.out.println("哈哈哈哈哈 你好");
 
         System.out.println("我好  大家好 经济姐姐");
 
