@@ -26,7 +26,10 @@ public class MyTest1 {
         System.out.println("update");
 
         System.out.println("哈哈哈哈哈 你好");
-
+        System.out.println("geigjiejgi");
+        System.out.println("给各界");
+        System.out.println("jijijijige");
+        System.out.println("kfiejgie");
 
         System.out.println("你好呀弟弟");
     }
