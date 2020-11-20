@@ -14,7 +14,7 @@ public class MyTest1 {
         System.out.println("hello world master.");
         System.out.println("xiixi");
         for (int i = 0; i < 10; i++) {
-            System.out.println("xx");
+            System.out.println("ijjixx");
         }
         System.out.println("add one line");
         System.out.println("jjjjj");
