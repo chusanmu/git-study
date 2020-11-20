@@ -17,7 +17,6 @@ public class MyTest1 {
         System.out.println("jjjjj");
         System.out.println("fiem");
 
-        System.out.println("你好呀弟弟");
     }
 
 }
