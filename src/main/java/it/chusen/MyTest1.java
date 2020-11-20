@@ -10,10 +10,8 @@ public class MyTest1 {
 
     public static void main(String[] args) {
         System.out.println("hello nihao world master.");
-        System.out.println("xixi");
-        System.out.println("hello world master.");
+        System.out.println("hello world master.fafa");
         System.out.println("xiixi");
-        System.out.println("你好呀弟弟");
     }
 
 }
