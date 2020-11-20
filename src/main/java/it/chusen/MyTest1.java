@@ -22,9 +22,15 @@ public class MyTest1 {
 
         System.out.println("add one line");
 
-        System.out.println("我好  大家好 经济姐姐");
-        System.out.println("我好  大家好 经济姐姐");
-        System.out.println("我好  大家好 经济姐姐");
+        System.out.println("test future ");
+        System.out.println("update");
+        System.out.println("jige");
+        System.out.println("fiem");
+        System.out.println("fiem");
+        System.out.println("fiem");
+        System.out.println("fiem");
+        System.out.println("fiem");
+
         System.out.println("你好呀弟弟");
     }
 
