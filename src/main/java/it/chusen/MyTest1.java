@@ -13,24 +13,6 @@ public class MyTest1 {
         System.out.println("xixi");
         System.out.println("hello world master.");
         System.out.println("xiixi");
-        for (int i = 0; i < 10; i++) {
-            System.out.println("fjijixx");
-        }
-        System.out.println("add one line");
-        System.out.println("jjjjj");
-        System.out.println("OK 哈哈哈");
-
-        System.out.println("add one line");
-
-        System.out.println("test future ");
-        System.out.println("update");
-        System.out.println("jige");
-        System.out.println("fiem");
-        System.out.println("fiem");
-        System.out.println("fiem");
-        System.out.println("fiem");
-        System.out.println("fiem");
-
         System.out.println("你好呀弟弟");
     }
 
