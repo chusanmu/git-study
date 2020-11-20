@@ -24,6 +24,8 @@ public class MyTest1 {
 
         System.out.println("test future ");
         System.out.println("update");
+
+        System.out.println("我是楚森");
     }
 
 }
