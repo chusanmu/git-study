@@ -10,6 +10,7 @@ public class MyTest2 {
         System.out.println("i love coder and money~~~~~");
         System.out.println("hello java");
           System.out.println("jjjiji");
+        System.out.println("jj");
         System.out.println();
     }
 }
